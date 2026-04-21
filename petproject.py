@@ -1,5 +1,3 @@
-Class Pet:
-     def _init_(species, name, age):
-        species.name = name
-        species.age = age
-                                    
+class Dog:
+     def _init_(self, name, age):
+         
